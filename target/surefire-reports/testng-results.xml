@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="5437" started-at="2022-11-17T23:25:55 IST" finished-at="2022-11-17T23:26:01 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="5437" started-at="2022-11-17T23:25:55 IST" finished-at="2022-11-17T23:26:01 IST">
+      <class name="com.xorianttest1.JsonSchemaValidationTest">
+        <test-method status="PASS" signature="jsonSchemaValidationTest()[pri:0, instance:com.xorianttest1.JsonSchemaValidationTest@64729b1e]" name="jsonSchemaValidationTest" duration-ms="900" started-at="2022-11-17T23:25:59 IST" finished-at="2022-11-17T23:26:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsonSchemaValidationTest -->
+      </class> <!-- com.xorianttest1.JsonSchemaValidationTest -->
+      <class name="com.xorianttest1.postTest">
+        <test-method status="PASS" signature="postTest()[pri:0, instance:com.xorianttest1.postTest@10bbd20a]" name="postTest" duration-ms="737" started-at="2022-11-17T23:26:00 IST" finished-at="2022-11-17T23:26:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTest -->
+        <test-method status="PASS" signature="postTesttwo()[pri:0, instance:com.xorianttest1.postTest@10bbd20a]" name="postTesttwo" duration-ms="589" started-at="2022-11-17T23:26:00 IST" finished-at="2022-11-17T23:26:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTesttwo -->
+      </class> <!-- com.xorianttest1.postTest -->
+      <class name="com.xorianttest1.GetJsonPathTest">
+        <test-method status="PASS" signature="getJsonPathTest()[pri:0, instance:com.xorianttest1.GetJsonPathTest@4e7dc304]" name="getJsonPathTest" duration-ms="900" started-at="2022-11-17T23:25:58 IST" finished-at="2022-11-17T23:25:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getJsonPathTest -->
+      </class> <!-- com.xorianttest1.GetJsonPathTest -->
+      <class name="com.xorianttest1.GetAPITest">
+        <test-method status="PASS" signature="forAllMethods()[pri:0, instance:com.xorianttest1.GetAPITest@2d6eabae]" name="forAllMethods" is-config="true" duration-ms="329" started-at="2022-11-17T23:25:55 IST" finished-at="2022-11-17T23:25:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forAllMethods -->
+        <test-method status="PASS" signature="getListOfUsers()[pri:0, instance:com.xorianttest1.GetAPITest@2d6eabae]" name="getListOfUsers" duration-ms="1483" started-at="2022-11-17T23:25:56 IST" finished-at="2022-11-17T23:25:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListOfUsers -->
+        <test-method status="PASS" signature="getListOfUsers1()[pri:0, instance:com.xorianttest1.GetAPITest@2d6eabae]" name="getListOfUsers1" duration-ms="304" started-at="2022-11-17T23:25:57 IST" finished-at="2022-11-17T23:25:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListOfUsers1 -->
+        <test-method status="PASS" signature="getListOfUsers2()[pri:0, instance:com.xorianttest1.GetAPITest@2d6eabae]" name="getListOfUsers2" duration-ms="159" started-at="2022-11-17T23:25:58 IST" finished-at="2022-11-17T23:25:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListOfUsers2 -->
+      </class> <!-- com.xorianttest1.GetAPITest -->
+      <class name="com.xorianttest1.CreateUserPOJOTest">
+        <test-method status="PASS" signature="createUserTestA()[pri:0, instance:com.xorianttest1.CreateUserPOJOTest@1f36e637]" name="createUserTestA" duration-ms="4" started-at="2022-11-17T23:25:55 IST" finished-at="2022-11-17T23:25:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserTestA -->
+      </class> <!-- com.xorianttest1.CreateUserPOJOTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,10 @@
+com\xorianttest1\GetTestWithJsonPath.class
+com\xorianttest1\GetTestWithBDDApproach.class
+com\xorianttest1\GetJsonPathTest.class
+com\xorianttest1\SerilizationUsingJackson.class
+com\xorianttest1\JsonSchemaValidationTest.class
+com\xorianttest1\postTest.class
+com\xorianttest1\SerilizationUsingGson.class
+com\xorianttest1\CreateUserPOJOTest.class
+com\xorianttest1\GetAPITest.class
+pojoPackage\CreateUserPOJO.class
